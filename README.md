@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @battlechickenofficial
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning suffering
-- 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me magic
+Howdy do reader,
+My name is Victor Thomas Henney IV, currently a student at STCC.
+If you're reading this you're either weird or my teacher.
+
+Most stuff on here is just school work or game dev projects.
 
 <!---
 battlechickenofficial/battlechickenofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
