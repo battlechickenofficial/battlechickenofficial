@@ -1,5 +1,4 @@
-Howdy do reader,
-My name is Victor Thomas Henney IV, currently a student at STCC.
+Yaw, currently a student at UMass Amherst.
 If you're reading this you're either weird or my teacher.
 
 Most stuff on here is just school work or game dev projects.
